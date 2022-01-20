@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowthamk17
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me twitter @_gowthamk
 
