@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgowthamk_17=self.webpackChunkgowthamk_17||[]).push([[8755],{4013:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/gowthamk17/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
